@@ -17,9 +17,7 @@ My personal goal is cloud native, and I have also studied other technology stack
 - 🧸 My wish is to go to bed and wake up early every day!!!
 - 🎁 希望未来能成为很厉害的架构师。
 - 🎁 I hope to become a very skilled architect in the future.
-- 📫 我的邮箱 : woshikedayaa@gmail.com
 - 📫 My email : woshikedayaa@gmail.com
-- 📘 我的博客 : https://blog.woshikedayaa.cn
 - 📘 My blog : https://blog.woshikedayaa.cn
 - 🐧 QQ : 3220465418
 - .....
